@@ -1,3 +1,8 @@
+Pre requisie 
+Python Pillow package for Python Image Library ( PIL)
+
+$ pip3 install pillow
+
 usage
 
 $ python3 gatepic.py Images
