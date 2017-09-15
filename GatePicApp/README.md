@@ -1,7 +1,9 @@
-Pre requisie 
+Prerequisite :
+
 Python Pillow package for Python Image Library ( PIL)
 
 $ pip3 install pillow
+
 
 usage
 
